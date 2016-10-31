@@ -45,7 +45,7 @@ body {
   -o-background-size: cover !important;
   background-size: cover !important;
   position: relative;
-      background-color: #00a3e5;
+      background-color: #efefef;
 }
 .primary-container-background .primary-container {
   background-color: #f0eef3;
@@ -179,7 +179,7 @@ p.site-slogan {
 /* Copyright */
 #copyright {
   font-size: 14px;
-  color: #eeeeee;
+  color: #000000;
 }
 #copyright p {
   padding: 0;
